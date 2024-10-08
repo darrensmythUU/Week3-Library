@@ -5,7 +5,7 @@
     int noOfPages;
 
     //Constructor for Book object
-    public Book (string bookTitle, string bookAuthor, string bookISBN, int bookNoOfPages)
+    public Book(string bookTitle, string bookAuthor, string bookISBN, int bookNoOfPages)
     {
         Title = bookTitle;
         Author = bookAuthor;
